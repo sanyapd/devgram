@@ -13,6 +13,14 @@
   z-index: 10000;
 }
 
+.lupa {
+    font-family: "FontAwesome", "Source Sans Pro"; 
+    background-color: rgb(243, 237, 237);
+    border: none;
+    border-radius: 8px;
+    height: 28px;
+    font-size: 12px;
+}
 #navigation-user-image {
   height: 22px;
   width: 22px;

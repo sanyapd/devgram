@@ -1,3 +1,5 @@
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+
 :root {
   --app-background-color: #fafafa;
   --main-background-color: #ffffff;
@@ -21,3 +23,5 @@ html {
 body {
   overflow-x: hidden;
 }
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
