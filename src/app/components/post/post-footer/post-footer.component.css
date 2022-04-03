@@ -8,6 +8,14 @@
   justify-content: space-between;
 }
 
+.action-button {
+  opacity:2;
+}
+.action-button:hover
+{
+  opacity:0.5;
+}
+
 .post-footer .actions .actions-container .action-button {
   background: none;
   border: none;
